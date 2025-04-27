@@ -1,0 +1,33 @@
+Project Title: Data Analysis on Sales Tax
+Course Number: IST 652
+Course Title: Scripting for Data Analysis
+
+Description:
+This project focuses on analyzing sales tax collection data from various U.S. states to identify trends, outliers, and patterns. Utilizing Python scripting, the project encompasses data loading, cleaning, exploratory data analysis (EDA), and visualization to derive meaningful insights from the dataset.
+
+Contents:
+- Mini_Project2_Code.ipynb: Jupyter Notebook containing the complete workflow, including data preprocessing, EDA, and visualizations.
+- Mini_Project2.json: JSON file containing the sales tax dataset used for analysis.
+- Mini_Project2 (1).pdf: PDF report summarizing the project's objectives, methodology, findings, and conclusions.
+
+Software Requirements:
+- Python 3.8 or higher
+- Jupyter Notebook
+- Required Python libraries:
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+
+How to Open/Review:
+1. Ensure Python and Jupyter Notebook are installed on your system.
+2. Install the required libraries using pip:
+3. Open `Mini_Project2_Code.ipynb` in Jupyter Notebook to explore the project's code and results.
+4. Open `Mini_Project2 (1).pdf` using any PDF reader to read the project summary.
+
+Notes:
+- The dataset used is a JSON file containing sales tax collection information from various U.S. states.
+- The project emphasizes data cleaning, handling missing values, and visualizing data distributions and trends.
+
+Author:
+Sai Akash Addala
